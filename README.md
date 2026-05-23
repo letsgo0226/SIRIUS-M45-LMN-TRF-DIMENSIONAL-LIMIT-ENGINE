@@ -8,7 +8,7 @@ A Gödel–Zeta analytic continuation engine exploring:
 * epsilon-limit topology
 * dimensional convergence
 * Gödel-driven precision fields
-* analytic continuation as a dynamic geometry
+* analytic continuation as dynamic geometry
 * LMN/TRF symbolic computation
 
 ⸻
@@ -101,7 +101,7 @@ This engine uses:
 * symbolic Gödel encoding
 * asymptotic epsilon limits
 
-The project is an experimental symbolic/topological computation framework.
+This project is an experimental symbolic/topological computation framework.
 
 It is NOT a proof of the Riemann Hypothesis.
 
@@ -130,3 +130,12 @@ it emerges through analytic closure.”
 License
 
 MIT License
+
+⸻
+
+Disclaimer
+
+This repository is intended for experimental mathematical visualization,
+symbolic computation, and philosophical exploration.
+
+No claim of formal proof is made regarding the Riemann Hypothesis or related conjectures.
